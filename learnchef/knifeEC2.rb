@@ -1,0 +1,1 @@
+knife bootstrap -.-.-.- --ssh-user ec2-user --sudo --i /home/ec2-user/keyworkstation --node-name client
